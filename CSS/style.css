@@ -1,0 +1,21 @@
+
+
+.titulo { margin-top: 50px; margin-right: 100px; margin-left: 120px; margin-bottom: 80px;}
+.colortexto{ color:rgb(243, 239, 12); font-family: 'Montserrat', sans-serif;;}
+#parrafo {border-top: 5px solid; color: black;
+          border-right: 8px dashed red;
+          border-bottom: 12px dotted black;
+          border-left: 7px double red;
+          padding-top: 30px;
+          padding-right: 50px;
+          padding-left: 40px;
+          padding-bottom: 80px;}
+.margen { marmargin-top: 50px; margin-right: 100px; margin-left: 120px; margin-bottom: 80px;
+          color:rgba(63, 3, 230, 0.664); 
+          font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          font-size:large;}
+img { width: 400px; height: 300px; border-top: 5px solid black; border-right: 5px solid black;
+    border-bottom: 5px solid black; border-left: 5px solid black;}
+
+.padre { text-align: center;
+         background-color: brown;}
